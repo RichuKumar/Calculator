@@ -1,0 +1,16 @@
+
+#CALCULATOR
+a=input("X: ")
+b=input("Y: ")
+Addition=(int(a)+int(b))
+print("the sum of both X and Y is:",Addition)
+Substraction=(int(a)-int(b))
+print("the Substraction of X and Y is:",Substraction)
+Multiplication=(int(a)*int(b))
+print("The Product of X and Y is:",Multiplication)
+Division=(int(a)/int(b))
+print("The Division of X and Y is:",Division)
+floorDivision=(int(a)//int(b))
+print("The FloorDivision of X and Y is:",floorDivision)
+Modulas=(int(a)%int(b))
+print("The Modulas of X and Y is:",Modulas)
